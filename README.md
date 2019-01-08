@@ -6,7 +6,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 ### California Housing prices
 
-In this project I am trying to predict the housing prices in California using features like the age of the house or  its proximity to the ocean. For this project I used a simple linear regression. However, I'm going to optimize it with other powerful tools like random forest or XGBoost.
+In this project I am trying to predict the housing prices in California using features like the age of the house or  its proximity to the ocean. For this project I used a simple linear regression and the XGboost method. However, I need to tune the parameters of the XGboost to get the optimal ones.
 
 the code can be found [here](https://www.kaggle.com/joseconomy/california-housing-prices-regression-under-work).
 
