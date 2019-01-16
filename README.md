@@ -10,8 +10,13 @@ In this project I am trying to predict the housing prices in California using fe
 
 the code can be found [here](https://www.kaggle.com/joseconomy/california-housing-prices-regression-under-work).
 
-## Data analysis projects.
+## Exploratory Data Analysis.
 
 ### Accidents in UK
 
+## Deep learning projects
 
+### Credit card fraud detector
+Manipulating a database of 300.000 transactions made with a credit card, the objective of this project is to create a deep neural network that classify the transactions in fraudulent or normal transaction. 
+
+the code can be found [here](https://www.kaggle.com/joseconomy/credit-card-fraud-dnn).
