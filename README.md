@@ -10,7 +10,7 @@ In this project I am trying to predict the housing prices in California using fe
 
 the code can be found [here](https://www.kaggle.com/joseconomy/california-housing-prices-regression-under-work).
 
-### Minimizing the Churn Rate Through Analysis of Financial Habits¶
+### Minimizing the Churn Rate Through Analysis of Financial Habits
 
 Using classification techniques, the main purpose of this project is to create an algorithm that could predict if a customer it's going to churn a subscription product. In this way, the company will adquire knoledge about which products should improve or offer to minimize this churn rate.
 
